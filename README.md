@@ -48,6 +48,7 @@ adb shell pm grant io.github.cloudburst.grayscaler android.permission.QUERY_ALL_
 
 ## License
 
+This app is licensed under GPL-3.0 license
 
 ---
 
